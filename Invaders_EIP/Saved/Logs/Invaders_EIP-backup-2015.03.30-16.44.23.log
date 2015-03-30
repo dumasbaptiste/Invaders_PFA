@@ -1,0 +1,109 @@
+﻿Log file open, 03/30/15 16:21:31
+LogInit: Version: 4.7.3-0+++depot+UE4-Releases+4.7
+LogInit: API Version: 0
+LogInit: Compiled (64-bit): Mar 30 2015 15:45:05
+LogInit: Compiled with Visual C++: 18.00.30501.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.7
+LogInit: Command line: 
+LogInit: Base directory: C:/Users/Baptiste/Desktop/WindowsNoEditor/Invaders_EIP/Binaries/Win64/
+LogInit: Rocket: 0
+[2015.03.30-14.21.31:240][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
+[2015.03.30-14.21.31:280][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.03.30-14.21.31:281][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.03.30-14.21.31:297][  0]LogInit: Object subsystem initialized
+[2015.03.30-14.21.31:302][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2015.03.30-14.21.31:302][  0]LogConsoleResponse:Warning:   Found in ini file '../../../Invaders_EIP/Saved/Config/WindowsServer/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.30-14.21.31:302][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
+[2015.03.30-14.21.31:302][  0]LogConsoleResponse:Warning:   Found in ini file '../../../Invaders_EIP/Saved/Config/WindowsServer/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.30-14.21.31:303][  0]LogConsoleManager:Warning: Console variable 'r.MSAA.CompositingSampleCount' wasn't set (Priority ProjectSetting < Scalability)
+[2015.03.30-14.21.31:303][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2015.03.30-14.21.31:303][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsServer]
+[2015.03.30-14.21.31:310][  0]LogInit: Computer: BESPIN
+[2015.03.30-14.21.31:310][  0]LogInit: User: Baptiste
+[2015.03.30-14.21.31:310][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.03.30-14.21.31:310][  0]LogInit: High frequency timer resolution =3.320361 MHz
+[2015.03.30-14.21.31:310][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx) Virtual=8192.0GB
+[2015.03.30-14.21.31:311][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2015.03.30-14.21.31:311][  0]LogMemory: Process Physical Memory: 26.52 MB used, 26.52 MB peak
+[2015.03.30-14.21.31:311][  0]LogMemory: Process Virtual Memory: 18.40 MB used, 18.46 MB peak
+[2015.03.30-14.21.31:311][  0]LogMemory: Physical Memory: 4698.23 MB used, 8136.55 MB total
+[2015.03.30-14.21.31:311][  0]LogMemory: Virtual Memory: 167.84 MB used, 8388608.00 MB total
+[2015.03.30-14.21.31:345][  0]LogTextLocalizationManager: The requested culture ('fr_FR') has no localization data; falling back to 'en' for localization and internationalization data.
+[2015.03.30-14.21.31:510][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.03.30-14.21.31:524][  0]LogObj: 20160 objects as part of root set at end of initial load.
+[2015.03.30-14.21.31:524][  0]LogUObjectAllocator: 3942632 out of 0 bytes used by permanent object pool.
+[2015.03.30-14.21.31:534][  0]LogEngine: Initializing Engine...
+[2015.03.30-14.21.31:541][  0]LogInit: Texture streaming: Disabled
+[2015.03.30-14.21.31:546][  0]LogNet: Browse: /Game/Maps/GameMap?Name=Player
+[2015.03.30-14.21.31:546][  0]LogLoad: LoadMap: /Game/Maps/GameMap?Name=Player
+[2015.03.30-14.21.31:556][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2015.03.30-14.21.31:556][  0]LogMemory: Process Physical Memory: 64.75 MB used, 65.27 MB peak
+[2015.03.30-14.21.31:556][  0]LogMemory: Process Virtual Memory: 106.14 MB used, 108.42 MB peak
+[2015.03.30-14.21.31:556][  0]LogMemory: Physical Memory: 4731.76 MB used, 8136.55 MB total
+[2015.03.30-14.21.31:556][  0]LogMemory: Virtual Memory: 300.10 MB used, 8388608.00 MB total
+[2015.03.30-14.21.31:556][  0]LogMemory: 
+[2015.03.30-14.21.31:556][  0]LogMemory: Allocator Stats for binned:
+[2015.03.30-14.21.31:556][  0]LogMemory: Current Memory 86.13 MB used, plus 3.38 MB waste
+[2015.03.30-14.21.31:556][  0]LogMemory: Peak Memory 90.45 MB used, plus 1.90 MB waste
+[2015.03.30-14.21.31:556][  0]LogMemory: Current OS Memory 89.51 MB, peak 92.35 MB
+[2015.03.30-14.21.31:556][  0]LogMemory: Current Waste 0.46 MB, peak 0.53 MB
+[2015.03.30-14.21.31:556][  0]LogMemory: Current Used 86.13 MB, peak 90.45 MB
+[2015.03.30-14.21.31:556][  0]LogMemory: Current Slack 2.92 MB
+[2015.03.30-14.21.31:556][  0]LogMemory: Allocs       96975 Current /  673032 Total
+[2015.03.30-14.21.31:556][  0]LogMemory: 
+[2015.03.30-14.21.31:556][  0]LogMemory: Block Size Num Pools Max Pools Cur Allocs Total Allocs Min Req Max Req Mem Used Mem Slack Mem Waste Efficiency
+[2015.03.30-14.21.31:556][  0]LogMemory: ---------- --------- --------- ---------- ------------ ------- ------- -------- --------- --------- ----------
+[2015.03.30-14.21.31:556][  0]LogMemory:          8         0         0          0            0       8       0       0K        0K        0K    100.00%
+[2015.03.30-14.21.31:556][  0]LogMemory:         16         6         6      16293       104458      16      16     254K      130K        0K    100.00%
+[2015.03.30-14.21.31:556][  0]LogMemory:         32        12        12      20276        97280      32      32     633K      135K        0K    100.00%
+[2015.03.30-14.21.31:556][  0]LogMemory:         48         7         7       7408        41064      48      48     347K      101K        0K    100.00%
+[2015.03.30-14.21.31:556][  0]LogMemory:         64        13        13      11818        50627      64      64     738K       94K        0K    100.00%
+[2015.03.30-14.21.31:556][  0]LogMemory:         80         4         4       2716        34241      80      80     212K       44K        0K    100.00%
+[2015.03.30-14.21.31:556][  0]LogMemory:         96         5         5       2737        34166      96      96     256K       64K        0K    100.00%
+[2015.03.30-14.21.31:556][  0]LogMemory:        112         4         4       1251        17694     112     112     136K      120K        0K    100.00%
+[2015.03.30-14.21.31:556][  0]LogMemory:        128        31        31      15459        34633     128     128    1932K       52K        0K    100.00%
+[2015.03.30-14.21.31:556][  0]LogMemory:        160         8        13       2719        51758     144     160     424K       88K       16K     96.88%
+[2015.03.30-14.21.31:556][  0]LogMemory:        192        23        23       7600        76868     176     192    1425K       46K       41K     97.21%
+[2015.03.30-14.21.31:556][  0]LogMemory:        224         3         3        608        49201     208     224     133K       59K        5K     97.40%
+[2015.03.30-14.21.31:556][  0]LogMemory:        256         3         3        695        27025     240     256     173K       19K        7K     96.35%
+[2015.03.30-14.21.31:556][  0]LogMemory:        288         5         5       1072        16121     272     288     301K       19K        9K     97.19%
+[2015.03.30-14.21.31:556][  0]LogMemory:        320         3         3        573         8571     304     320     179K       13K        4K     97.92%
+[2015.03.30-14.21.31:556][  0]LogMemory:        384         9         9       1454         7722     336     384     545K       29K       47K     91.84%
+[2015.03.30-14.21.31:556][  0]LogMemory:        448        11        11       1450         4640     400     448     634K       69K       46K     93.47%
+[2015.03.30-14.21.31:556][  0]LogMemory:        512         3         3        359         2348     464     512     179K       13K       10K     94.79%
+[2015.03.30-14.21.31:556][  0]LogMemory:        576         3         3        236          812     528     576     132K       59K        7K     96.35%
+[2015.03.30-14.21.31:556][  0]LogMemory:        640         2         2         79          210     592     640      49K       79K        2K     98.44%
+[2015.03.30-14.21.31:556][  0]LogMemory:        704         9        10        175         1251     656     704     120K      456K        3K     99.48%
+[2015.03.30-14.21.31:556][  0]LogMemory:        768         9        16        144         2499     720     768     108K      466K        5K     99.13%
+[2015.03.30-14.21.31:556][  0]LogMemory:        896         5         5        211          831     784     896     184K      136K        8K     97.50%
+[2015.03.30-14.21.31:556][  0]LogMemory:       1024         2         2         98          198     912    1024      98K       30K        4K     96.88%
+[2015.03.30-14.21.31:556][  0]LogMemory:       1168         2         2         57          336    1040    1168      65K       63K        3K     97.66%
+[2015.03.30-14.21.31:556][  0]LogMemory:       1360         5         5        207         1516    1184    1360     274K       45K       16K     95.00%
+[2015.03.30-14.21.31:556][  0]LogMemory:       1632         6         6        217          483    1376    1632     345K       38K       19K     95.05%
+[2015.03.30-14.21.31:556][  0]LogMemory:       2048         6         6        108          482    1648    2048     216K      168K       24K     93.75%
+[2015.03.30-14.21.31:556][  0]LogMemory:       2336         3         3         68         2287    2064    2336     155K       37K       17K     91.15%
+[2015.03.30-14.21.31:557][  0]LogMemory:       2720         4         4         72          163    2352    2720     191K       64K       15K     94.14%
+[2015.03.30-14.21.31:557][  0]LogMemory:       3264         8         8        153          890    2736    3264     487K       23K       30K     94.14%
+[2015.03.30-14.21.31:557][  0]LogMemory:       4096        11        11        164          465    3280    4096     656K       48K       77K     89.06%
+[2015.03.30-14.21.31:557][  0]LogMemory:       4672         8         8        103          810    4112    4672     469K       42K       20K     96.09%
+[2015.03.30-14.21.31:557][  0]LogMemory:       5456        11        11        130          356    4688    5456     692K       12K       62K     91.19%
+[2015.03.30-14.21.31:557][  0]LogMemory:       6544        11        11        108          247    5488    6544     690K       13K       55K     92.19%
+[2015.03.30-14.21.31:557][  0]LogMemory:       8192         4         4         25          120    6560    8192     200K       56K       26K     89.84%
+[2015.03.30-14.21.31:557][  0]LogMemory:       9360         3         3         20           80    8208    9360     182K       10K        9K     95.31%
+[2015.03.30-14.21.31:557][  0]LogMemory:      10912         2         2         10           41    9408   10912     106K       22K        8K     93.75%
+[2015.03.30-14.21.31:557][  0]LogMemory:      13104         1         2          4           43   10960   13056      51K       13K        3K     95.31%
+[2015.03.30-14.21.31:557][  0]LogMemory:      16384         3         3         10           47   13120   16384     160K       32K       20K     89.58%
+[2015.03.30-14.21.31:557][  0]LogMemory:      21840         9        10         27           82   16400   21744     575K        1K       96K     83.33%
+[2015.03.30-14.21.31:557][  0]LogMemory:      32768         2         4          4           42   22352   32640     128K        0K       23K     82.03%
+[2015.03.30-14.21.31:557][  0]LogMemory: 
+[2015.03.30-14.21.31:557][  0]LogMemory: 17856K allocated in pools (with 3008K slack and 737K waste). Efficiency 95.87%
+[2015.03.30-14.21.31:557][  0]LogMemory: Allocations 96919 Current / 672709 Total (in 279 pools)
+[2015.03.30-14.21.31:557][  0]LogMemory: 
+[2015.03.30-14.21.31:672][  0]LogWorld: Game class is 'GM_Invaders_C'
+[2015.03.30-14.21.31:672][  0]LogInit: WinSock: Socket queue 131072 / 131072
+[2015.03.30-14.21.31:675][  0]LogInit: WinSock: I am Bespin (192.168.0.13:0)
+[2015.03.30-14.21.31:675][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2015.03.30-14.21.31:676][  0]LogModuleManager:Warning: ModuleManager: Module 'GameplayDebugger' not found - its StaticallyLinkedModuleInitializers function is null.
+[2015.03.30-14.21.31:677][  0]LogAIModule: Creating AISystem for world GameMap
+[2015.03.30-14.21.31:678][ 

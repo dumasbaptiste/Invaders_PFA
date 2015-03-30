@@ -1,0 +1,220 @@
+﻿Log file open, 03/30/15 16:03:46
+LogInit: Version: 4.7.3-0+++depot+UE4-Releases+4.7
+LogInit: API Version: 0
+LogInit: Compiled (64-bit): Mar 30 2015 15:45:05
+LogInit: Compiled with Visual C++: 18.00.30501.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.7
+LogInit: Command line: 
+LogInit: Base directory: C:/Users/Baptiste/Desktop/WindowsNoEditor/Invaders_EIP/Binaries/Win64/
+LogInit: Rocket: 0
+[2015.03.30-14.03.46:482][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
+[2015.03.30-14.03.46:522][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.03.30-14.03.46:545][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.03.30-14.03.46:574][  0]LogInit: Object subsystem initialized
+[2015.03.30-14.03.46:603][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2015.03.30-14.03.46:603][  0]LogConsoleResponse:Warning:   Found in ini file '../../../Invaders_EIP/Saved/Config/WindowsServer/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.30-14.03.46:603][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
+[2015.03.30-14.03.46:603][  0]LogConsoleResponse:Warning:   Found in ini file '../../../Invaders_EIP/Saved/Config/WindowsServer/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.03.30-14.03.46:608][  0]LogConsoleManager:Warning: Console variable 'r.MSAA.CompositingSampleCount' wasn't set (Priority ProjectSetting < Scalability)
+[2015.03.30-14.03.46:609][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2015.03.30-14.03.46:609][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsServer]
+[2015.03.30-14.03.46:644][  0]LogInit: Computer: BESPIN
+[2015.03.30-14.03.46:644][  0]LogInit: User: Baptiste
+[2015.03.30-14.03.46:644][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.03.30-14.03.46:644][  0]LogInit: High frequency timer resolution =3.320361 MHz
+[2015.03.30-14.03.46:644][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx) Virtual=8192.0GB
+[2015.03.30-14.03.46:645][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2015.03.30-14.03.46:645][  0]LogMemory: Process Physical Memory: 26.06 MB used, 26.06 MB peak
+[2015.03.30-14.03.46:645][  0]LogMemory: Process Virtual Memory: 18.07 MB used, 18.08 MB peak
+[2015.03.30-14.03.46:645][  0]LogMemory: Physical Memory: 4505.31 MB used, 8136.55 MB total
+[2015.03.30-14.03.46:645][  0]LogMemory: Virtual Memory: 167.53 MB used, 8388608.00 MB total
+[2015.03.30-14.03.47:702][  0]LogTextLocalizationManager: The requested culture ('fr_FR') has no localization data; falling back to 'en' for localization and internationalization data.
+[2015.03.30-14.03.49:587][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.03.30-14.03.49:742][  0]LogObj: 20160 objects as part of root set at end of initial load.
+[2015.03.30-14.03.49:742][  0]LogUObjectAllocator: 3942632 out of 0 bytes used by permanent object pool.
+[2015.03.30-14.03.49:752][  0]LogEngine: Initializing Engine...
+[2015.03.30-14.03.49:761][  0]LogInit: Texture streaming: Disabled
+[2015.03.30-14.03.49:805][  0]LogNet: Browse: /Game/Maps/GameMap?Name=Player
+[2015.03.30-14.03.49:807][  0]LogLoad: LoadMap: /Game/Maps/GameMap?Name=Player
+[2015.03.30-14.03.49:968][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2015.03.30-14.03.49:968][  0]LogMemory: Process Physical Memory: 64.53 MB used, 65.05 MB peak
+[2015.03.30-14.03.49:968][  0]LogMemory: Process Virtual Memory: 105.88 MB used, 108.15 MB peak
+[2015.03.30-14.03.49:968][  0]LogMemory: Physical Memory: 4513.05 MB used, 8136.55 MB total
+[2015.03.30-14.03.49:968][  0]LogMemory: Virtual Memory: 299.84 MB used, 8388608.00 MB total
+[2015.03.30-14.03.49:968][  0]LogMemory: 
+[2015.03.30-14.03.49:968][  0]LogMemory: Allocator Stats for binned:
+[2015.03.30-14.03.49:968][  0]LogMemory: Current Memory 86.12 MB used, plus 3.36 MB waste
+[2015.03.30-14.03.49:968][  0]LogMemory: Peak Memory 90.45 MB used, plus 1.88 MB waste
+[2015.03.30-14.03.49:968][  0]LogMemory: Current OS Memory 89.49 MB, peak 92.32 MB
+[2015.03.30-14.03.49:968][  0]LogMemory: Current Waste 0.44 MB, peak 0.50 MB
+[2015.03.30-14.03.49:968][  0]LogMemory: Current Used 86.13 MB, peak 90.45 MB
+[2015.03.30-14.03.49:968][  0]LogMemory: Current Slack 2.92 MB
+[2015.03.30-14.03.49:968][  0]LogMemory: Allocs       96970 Current /  653518 Total
+[2015.03.30-14.03.49:968][  0]LogMemory: 
+[2015.03.30-14.03.49:968][  0]LogMemory: Block Size Num Pools Max Pools Cur Allocs Total Allocs Min Req Max Req Mem Used Mem Slack Mem Waste Efficiency
+[2015.03.30-14.03.49:968][  0]LogMemory: ---------- --------- --------- ---------- ------------ ------- ------- -------- --------- --------- ----------
+[2015.03.30-14.03.49:968][  0]LogMemory:          8         0         0          0            0       8       0       0K        0K        0K    100.00%
+[2015.03.30-14.03.49:968][  0]LogMemory:         16         6         6      16293        99478      16      16     254K      130K        0K    100.00%
+[2015.03.30-14.03.49:968][  0]LogMemory:         32        12        12      20274        97239      32      32     633K      135K        0K    100.00%
+[2015.03.30-14.03.49:968][  0]LogMemory:         48         7         7       7406        36881      48      48     347K      101K        0K    100.00%
+[2015.03.30-14.03.49:968][  0]LogMemory:         64        13        13      11816        50185      64      64     738K       94K        0K    100.00%
+[2015.03.30-14.03.49:969][  0]LogMemory:         80         4         4       2716        33937      80      80     212K       44K        0K    100.00%
+[2015.03.30-14.03.49:969][  0]LogMemory:         96         5         5       2737        30744      96      96     256K       64K        0K    100.00%
+[2015.03.30-14.03.49:969][  0]LogMemory:        112         4         4       1251        17354     112     112     136K      120K        0K    100.00%
+[2015.03.30-14.03.49:969][  0]LogMemory:        128        31        31      15460        34112     128     128    1932K       52K        0K    100.00%
+[2015.03.30-14.03.49:969][  0]LogMemory:        160         8        13       2719        51420     144     160     424K       88K       16K     96.88%
+[2015.03.30-14.03.49:969][  0]LogMemory:        192        23        23       7600        75195     176     192    1425K       46K       39K     97.35%
+[2015.03.30-14.03.49:969][  0]LogMemory:        224         3         3        608        49026     208     224     133K       59K        5K     97.40%
+[2015.03.30-14.03.49:969][  0]LogMemory:        256         3         3        692        26712     240     256     173K       19K        7K     96.35%
+[2015.03.30-14.03.49:969][  0]LogMemory:        288         5         5       1072        14822     272     288     301K       19K        9K     97.19%
+[2015.03.30-14.03.49:969][  0]LogMemory:        320         3         3        573         8345     304     320     179K       13K        4K     97.92%
+[2015.03.30-14.03.49:969][  0]LogMemory:        384         9         9       1454         7501     336     384     545K       29K       47K     91.84%
+[2015.03.30-14.03.49:969][  0]LogMemory:        448        11        11       1450         4124     400     448     634K       69K       44K     93.75%
+[2015.03.30-14.03.49:969][  0]LogMemory:        512         3         3        359         2276     464     512     179K       13K       10K     94.79%
+[2015.03.30-14.03.49:969][  0]LogMemory:        576         3         3        236          724     528     576     132K       59K        8K     95.83%
+[2015.03.30-14.03.49:969][  0]LogMemory:        640         2         2         79          198     592     640      49K       79K        2K     98.44%
+[2015.03.30-14.03.49:969][  0]LogMemory:        704         9        10        175         1117     656     704     120K      456K        3K     99.48%
+[2015.03.30-14.03.49:969][  0]LogMemory:        768         9        16        144         2498     720     768     108K      466K        5K     99.13%
+[2015.03.30-14.03.49:969][  0]LogMemory:        896         5         5        211          818     784     896     184K      136K        8K     97.50%
+[2015.03.30-14.03.49:969][  0]LogMemory:       1024         2         2         98          191     912    1024      98K       30K        4K     96.88%
+[2015.03.30-14.03.49:969][  0]LogMemory:       1168         2         2         57          330    1040    1168      65K       63K        3K     97.66%
+[2015.03.30-14.03.49:969][  0]LogMemory:       1360         5         5        207         1497    1184    1360     274K       45K       15K     95.31%
+[2015.03.30-14.03.49:969][  0]LogMemory:       1632         6         6        217          452    1376    1632     345K       38K       18K     95.31%
+[2015.03.30-14.03.49:969][  0]LogMemory:       2048         6         6        108          478    1648    2048     216K      168K       24K     93.75%
+[2015.03.30-14.03.49:969][  0]LogMemory:       2336         3         3         68         2281    2064    2336     155K       37K       17K     91.15%
+[2015.03.30-14.03.49:969][  0]LogMemory:       2720         4         4         72          151    2352    2720     191K       64K       15K     94.14%
+[2015.03.30-14.03.49:969][  0]LogMemory:       3264         8         8        153          888    2736    3264     487K       23K       30K     94.14%
+[2015.03.30-14.03.49:969][  0]LogMemory:       4096        11        11        164          463    3280    4096     656K       48K       77K     89.06%
+[2015.03.30-14.03.49:969][  0]LogMemory:       4672         8         8        103          801    4112    4672     469K       42K       20K     96.09%
+[2015.03.30-14.03.49:969][  0]LogMemory:       5456        11        11        130          351    4688    5456     692K       12K       62K     91.19%
+[2015.03.30-14.03.49:969][  0]LogMemory:       6544        11        11        108          243    5488    6544     690K       13K       55K     92.19%
+[2015.03.30-14.03.49:969][  0]LogMemory:       8192         4         4         25          114    6560    8192     200K       56K       26K     89.84%
+[2015.03.30-14.03.49:969][  0]LogMemory:       9360         3         3         20           76    8208    9360     182K       10K        9K     95.31%
+[2015.03.30-14.03.49:969][  0]LogMemory:      10912         2         2         10           39    9408   10912     106K       22K        8K     93.75%
+[2015.03.30-14.03.49:969][  0]LogMemory:      13104         1         2          4           37   10976   13056      51K       13K        2K     96.88%
+[2015.03.30-14.03.49:969][  0]LogMemory:      16384         3         3         10           37   13120   16384     160K       32K       20K     89.58%
+[2015.03.30-14.03.49:969][  0]LogMemory:      21840         9        10         27           74   16400   21744     575K        1K       99K     82.81%
+[2015.03.30-14.03.49:969][  0]LogMemory:      32768         2         4          4           40   22352   32640     128K        0K       23K     82.03%
+[2015.03.30-14.03.49:969][  0]LogMemory: 
+[2015.03.30-14.03.49:969][  0]LogMemory: 17856K allocated in pools (with 3008K slack and 734K waste). Efficiency 95.89%
+[2015.03.30-14.03.49:969][  0]LogMemory: Allocations 96911 Current / 653250 Total (in 279 pools)
+[2015.03.30-14.03.49:969][  0]LogMemory: 
+[2015.03.30-14.03.50:931][  0]LogWorld: Game class is 'GM_Invaders_C'
+[2015.03.30-14.03.50:933][  0]LogInit: WinSock: Socket queue 131072 / 131072
+[2015.03.30-14.03.50:988][  0]LogInit: WinSock: I am Bespin (192.168.0.13:0)
+[2015.03.30-14.03.50:988][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2015.03.30-14.03.51:104][  0]LogModuleManager:Warning: ModuleManager: Module 'GameplayDebugger' not found - its StaticallyLinkedModuleInitializers function is null.
+[2015.03.30-14.03.51:104][  0]LogAIModule: Creating AISystem for world GameMap
+[2015.03.30-14.03.51:389][  0]LogWorld: Bringing World /Game/Maps/GameMap.GameMap up for play (max tick rate 30) at 2015.03.30-16.03.51
+[2015.03.30-14.03.52:343][  0]LogWorld: Bringing up level for play took: 1.237925
+[2015.03.30-14.03.52:651][  0]LogScript:Warning: Accessed None 'CallFunc_GetPlayerController_ReturnValue'
+	GameMap_C /Game/Maps/GameMap.GameMap:PersistentLevel.GameMap_C_1
+	Function /Game/Maps/GameMap.GameMap_C:ExecuteUbergraph_GameMap:00A7
+[2015.03.30-14.03.52:651][  0]LogInit:Display: Game Engine Initialized.
+[2015.03.30-14.03.52:652][  0]LogLoad: Full Startup: 7.80 seconds (BP compile: 0.00 seconds)
+[2015.03.30-14.04.06:447][419]LogNet: NotifyAcceptingConnection: Server GameMap accept
+[2015.03.30-14.04.06:473][419]LogNet: Open GameMap 03/30/15 16:04:06 127.0.0.1
+[2015.03.30-14.04.06:473][419]LogNet: Added client connection.  Remote address = 127.0.0.1:57507
+[2015.03.30-14.04.06:519][419]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/GameMap.GameMap: Accepted
+[2015.03.30-14.04.06:526][419]LogNet: Remote platform little endian=1
+[2015.03.30-14.04.06:526][419]LogNet: This platform little endian=1
+[2015.03.30-14.04.06:526][419]LogNet: GetLocalNetworkVersion: GEngineNetVersion: 0, ProjectName: invaders_eip, ProjectVersion: , LocalNetworkVersion: -1868519786
+[2015.03.30-14.04.06:559][421]LogNet: Login request: /Game/Maps/ClientMap userId: Invalid
+[2015.03.30-14.04.06:559][421]LogNet: Client netspeed is 10000
+[2015.03.30-14.04.06:816][429]LogNet: Join request: /Game/Maps/ClientMap?SplitscreenCount=1
+[2015.03.30-14.04.06:880][429]LogNet: Join succeeded: 256
+[2015.03.30-14.04.11:436][565]LogBlueprintUserMessages: Skill Launched !
+[2015.03.30-14.04.12:670][603]LogBlueprintUserMessages: Hello
+[2015.03.30-14.04.13:835][639]LogBlueprintUserMessages: Skill Launched !
+[2015.03.30-14.04.26:823][ 38]LogBlueprintUserMessages: 30
+[2015.03.30-14.04.27:626][ 63]LogBlueprintUserMessages: 30
+[2015.03.30-14.04.28:236][ 82]LogBlueprintUserMessages: Skill Launched !
+[2015.03.30-14.04.28:687][ 96]LogBlueprintUserMessages: Hello
+[2015.03.30-14.04.32:494][214]LogBlueprintUserMessages: 50
+[2015.03.30-14.04.33:301][239]LogBlueprintUserMessages: 50
+[2015.03.30-14.04.34:112][264]LogBlueprintUserMessages: 50
+[2015.03.30-14.04.35:139][296]LogBlueprintUserMessages: 1
+[2015.03.30-14.04.35:267][300]LogBlueprintUserMessages: 2
+[2015.03.30-14.04.35:395][304]LogBlueprintUserMessages: 3
+[2015.03.30-14.04.35:555][309]LogBlueprintUserMessages: 4
+[2015.03.30-14.04.35:717][314]LogBlueprintUserMessages: 5
+[2015.03.30-14.04.35:845][318]LogBlueprintUserMessages: You Can't Level Up
+[2015.03.30-14.04.36:070][325]LogBlueprintUserMessages: 1
+[2015.03.30-14.04.36:232][330]LogBlueprintUserMessages: 2
+[2015.03.30-14.04.36:427][336]LogBlueprintUserMessages: 3
+[2015.03.30-14.04.36:557][340]LogBlueprintUserMessages: 4
+[2015.03.30-14.04.36:719][345]LogBlueprintUserMessages: 5
+[2015.03.30-14.04.36:978][353]LogBlueprintUserMessages: 50
+[2015.03.30-14.04.37:786][378]LogBlueprintUserMessages: 50
+[2015.03.30-14.04.37:915][382]LogBlueprintUserMessages: You Can't Level Up
+[2015.03.30-14.04.38:077][387]LogBlueprintUserMessages: You Can't Level Up
+[2015.03.30-14.04.38:302][394]LogBlueprintUserMessages: 1
+[2015.03.30-14.04.38:495][400]LogBlueprintUserMessages: 2
+[2015.03.30-14.04.38:655][405]LogBlueprintUserMessages: 3
+[2015.03.30-14.04.38:785][409]LogBlueprintUserMessages: 4
+[2015.03.30-14.04.38:945][414]LogBlueprintUserMessages: 5
+[2015.03.30-14.04.39:204][422]LogBlueprintUserMessages: 50
+[2015.03.30-14.04.40:008][447]LogBlueprintUserMessages: 50
+[2015.03.30-14.04.40:330][457]LogBlueprintUserMessages: 1
+[2015.03.30-14.04.40:491][462]LogBlueprintUserMessages: 2
+[2015.03.30-14.04.40:652][467]LogBlueprintUserMessages: 3
+[2015.03.30-14.04.40:814][472]LogBlueprintUserMessages: 4
+[2015.03.30-14.04.40:943][476]LogBlueprintUserMessages: 5
+[2015.03.30-14.04.41:104][481]LogBlueprintUserMessages: You Can't Level Up
+[2015.03.30-14.04.41:232][485]LogBlueprintUserMessages: 50
+[2015.03.30-14.04.42:038][510]LogBlueprintUserMessages: 50
+[2015.03.30-14.04.44:532][587]LogBlueprintUserMessages: 50
+[2015.03.30-14.04.45:343][612]LogBlueprintUserMessages: 50
+[2015.03.30-14.04.46:149][637]LogBlueprintUserMessages: 50
+[2015.03.30-14.04.47:581][681]LogBlueprintUserMessages: Skill Launched !
+[2015.03.30-14.04.48:332][704]LogBlueprintUserMessages: Hello
+[2015.03.30-14.04.48:948][723]LogBlueprintUserMessages: Cannot launch skill
+[2015.03.30-14.04.49:720][747]LogBlueprintUserMessages: Skill Launched !
+[2015.03.30-14.04.50:951][785]LogBlueprintUserMessages: Hello
+[2015.03.30-14.04.52:964][842]LogBlueprintUserMessages: Skill Launched !
+[2015.03.30-14.04.53:450][857]LogBlueprintUserMessages: Hello
+[2015.03.30-14.04.55:008][905]LogBlueprintUserMessages: Skill Launched !
+[2015.03.30-14.04.56:233][943]LogBlueprintUserMessages: Hello
+[2015.03.30-14.05.25:108][826]LogBlueprintUserMessages: 50
+[2015.03.30-14.05.29:565][963]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.29:579][964]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.29:579][964]LogBlueprintUserMessages: 50
+[2015.03.30-14.05.29:611][965]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.29:611][965]LogBlueprintUserMessages: 50
+[2015.03.30-14.05.29:643][966]LogBlueprintUserMessages: 50
+[2015.03.30-14.05.44:318][421]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.44:350][422]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.44:350][422]LogBlueprintUserMessages: 50
+[2015.03.30-14.05.44:382][423]LogBlueprintUserMessages: 50
+[2015.03.30-14.05.45:737][465]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.45:769][466]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.45:769][466]LogBlueprintUserMessages: 50
+[2015.03.30-14.05.45:801][467]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.45:801][467]LogBlueprintUserMessages: 50
+[2015.03.30-14.05.45:833][468]LogBlueprintUserMessages: 50
+[2015.03.30-14.05.53:734][711]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.53:766][712]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.53:799][713]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.53:831][714]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.55:133][754]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.55:165][755]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.55:197][756]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.55:749][773]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.55:782][774]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.55:814][775]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.55:846][776]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.55:977][780]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.56:009][781]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.56:041][782]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.56:139][785]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.56:173][786]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.56:204][787]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.56:269][789]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.56:301][790]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.56:334][791]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.56:366][792]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.56:463][795]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.56:495][796]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.05.56:527][797]LogScript:Warning: Divide by zero: Divide_FloatFloat
+[2015.03.30-14.06.00:595][923]LogNet: UChannel::ReceivedSequenced
