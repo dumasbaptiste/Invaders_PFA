@@ -1,0 +1,11 @@
+/Binaries
+/Build
+/DerivedDataCache
+/Intermediate
+/Saved
+/Content/Assets/UE4_Base_ParticleSystems
+ 
+*.opensdf
+*.sdf
+*.sln
+*.suo
